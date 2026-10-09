@@ -14,7 +14,7 @@ Verified locally on 9 October 2026 against the production Next.js build and Fast
 
 ## Delivery limits
 
-- No public GitHub remote yet; user is preparing an empty repository.
+- Source pushed to the user-provided repository https://github.com/garvi911/airbnb-clone--scaler-ai on main; remote commit verified after upload.
 - No hosted deployment or persistent-disk restart verification on a hosting provider yet.
 - Dockerfile and Render Blueprint prepared; Docker is not installed here, so container build was not executed locally.
 - The local production startup was tested using the generated standalone Next.js output with the FastAPI backend.

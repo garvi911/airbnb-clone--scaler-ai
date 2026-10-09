@@ -4,6 +4,8 @@ A photo-first homes marketplace built with **Next.js + TypeScript**, **FastAPI**
 
 Independent assignment demo. Authentication and checkout are simulated; no actual payment is collected.
 
+Source repository: [garvi911/airbnb-clone--scaler-ai](https://github.com/garvi911/airbnb-clone--scaler-ai). Hosted demo: pending deployment.
+
 ## Run locally
 
 Requirements: Node.js 22+ and Python 3.12+. Open two terminals from the repository root.

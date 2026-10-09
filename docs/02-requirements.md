@@ -33,7 +33,7 @@ Source: `C:\Users\garvi\Downloads\Assignment Airbnb Clone.pdf`. The user subsequ
 - [x] R11–R14: host tools and favorites; API and browser CRUD checks pass.
 - [x] R15–R16: required UI patterns, 24 seeded listings and bundled photos; screenshots inspected. Exact pixel parity is not claimed.
 - [x] R17: setup, architecture, schema, APIs and assumptions documented in README.
-- [ ] R18: public repository and hosted deployment await repository/account setup.
+- [ ] R18: source pushed to https://github.com/garvi911/airbnb-clone--scaler-ai on main; hosted deployment still pending.
 - [x] R19: original implementation and explainable design decisions documented; candidate interview preparation remains the candidate's responsibility.
 
 ## Explicitly permitted simplifications
