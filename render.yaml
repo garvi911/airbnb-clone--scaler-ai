@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: airbnb-assignment
+    runtime: docker
+    plan: 0.5c-512mb
+    healthCheckPath: /api/health
+    envVars:
+      - key: DATABASE_PATH
+        value: /data/airbnb.db
+      - key: NEXT_TELEMETRY_DISABLED
+        value: "1"
+    disk:
+      name: airbnb-data
+      mountPath: /data
+      sizeGB: 1
